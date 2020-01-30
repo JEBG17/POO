@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\bin\Debug\MiPrmerProyectoConsola.exe.config
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\bin\Debug\MiPrmerProyectoConsola.exe
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\bin\Debug\MiPrmerProyectoConsola.pdb
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\obj\Debug\MiPrmerProyectoConsola.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\obj\Debug\MiPrmerProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\obj\Debug\MiPrmerProyectoConsola.exe
+C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrmerProyectoConsola\obj\Debug\MiPrmerProyectoConsola.pdb
