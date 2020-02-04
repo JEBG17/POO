@@ -8,3 +8,13 @@ C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForm
 C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.exe
 C:\Users\hp\Documents\Proyectos POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.pdb
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe.config
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.pdb
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Form1.resources
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\hp\Documents\1POO\MiPrmeraSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.pdb
