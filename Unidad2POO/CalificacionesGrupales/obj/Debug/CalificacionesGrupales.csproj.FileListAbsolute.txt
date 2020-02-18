@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\bin\Debug\CalificacionesGrupales.exe.config
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\bin\Debug\CalificacionesGrupales.exe
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\bin\Debug\CalificacionesGrupales.pdb
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.Form1.resources
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.Properties.Resources.resources
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.exe
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.pdb
+C:\Users\hp\Documents\Proyectos POO\Unidad1POO\CalificacionesGrupales\obj\Debug\CalificacionesGrupales.csprojAssemblyReference.cache
