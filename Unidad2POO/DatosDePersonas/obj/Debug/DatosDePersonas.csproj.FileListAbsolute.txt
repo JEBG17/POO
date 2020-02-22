@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\bin\Debug\DatosDePersonas.exe.config
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\bin\Debug\DatosDePersonas.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\bin\Debug\DatosDePersonas.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\DatosDePersonas\obj\Debug\DatosDePersonas.Form2.resources

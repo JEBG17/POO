@@ -61,7 +61,6 @@
             // 
             // cmbEntradas
             // 
-            this.cmbEntradas.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbEntradas.FormattingEnabled = true;
             this.cmbEntradas.Items.AddRange(new object[] {
             "1",
@@ -176,7 +175,6 @@
             // 
             // cmbAsistentes
             // 
-            this.cmbAsistentes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbAsistentes.FormattingEnabled = true;
             this.cmbAsistentes.Items.AddRange(new object[] {
             "Bebes",

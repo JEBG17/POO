@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\bin\Debug\PerimetroAreaCuadrado.exe.config
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\bin\Debug\PerimetroAreaCuadrado.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\bin\Debug\PerimetroAreaCuadrado.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAreaCuadrado.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAeeaCuadrado.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAreaCuadrado.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAreaCuadrado.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAreaCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAreaCuadrado.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\PerimetroAeeaCuadrado\obj\Debug\PerimetroAreaCuadrado.pdb

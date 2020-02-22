@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\bin\Debug\Grados.exe.config
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\bin\Debug\Grados.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\bin\Debug\Grados.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\Grados\obj\Debug\Grados.pdb
