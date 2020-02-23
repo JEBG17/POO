@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\bin\Debug\Eectricidad.exe.config
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\bin\Debug\Eectricidad.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\bin\Debug\Eectricidad.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\Eectricidad\obj\Debug\Eectricidad.pdb

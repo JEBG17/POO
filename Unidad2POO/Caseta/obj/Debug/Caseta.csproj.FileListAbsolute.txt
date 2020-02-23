@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\bin\Debug\Caseta.exe.config
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\bin\Debug\Caseta.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\bin\Debug\Caseta.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\Caseta\obj\Debug\Caseta.pdb

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grados", "Grados\Grados.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacaciones", "Vacaciones\Vacaciones.csproj", "{07C919A3-2338-42FD-8BEF-BF0C49C2C505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eectricidad", "Eectricidad\Eectricidad.csproj", "{745F2545-B0A3-4A7B-B72D-75FF9DD434CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caseta", "Caseta\Caseta.csproj", "{93980C68-3DC1-4E03-A081-5BA0B83BF13B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{07C919A3-2338-42FD-8BEF-BF0C49C2C505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C919A3-2338-42FD-8BEF-BF0C49C2C505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C919A3-2338-42FD-8BEF-BF0C49C2C505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745F2545-B0A3-4A7B-B72D-75FF9DD434CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745F2545-B0A3-4A7B-B72D-75FF9DD434CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745F2545-B0A3-4A7B-B72D-75FF9DD434CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745F2545-B0A3-4A7B-B72D-75FF9DD434CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93980C68-3DC1-4E03-A081-5BA0B83BF13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93980C68-3DC1-4E03-A081-5BA0B83BF13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93980C68-3DC1-4E03-A081-5BA0B83BF13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93980C68-3DC1-4E03-A081-5BA0B83BF13B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
