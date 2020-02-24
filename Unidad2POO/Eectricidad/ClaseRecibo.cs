@@ -18,7 +18,7 @@ namespace Eectricidad
             {
                 case "Hogar":
                     {
-                        if (kilow>=0 & kilow<=250)
+                        if ( kilow<=250)
                         {
                             kw = (kilow * 0.65);
                         }

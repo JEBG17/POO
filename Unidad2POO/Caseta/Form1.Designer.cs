@@ -65,9 +65,8 @@
             this.lblPagoVehiculo.AutoSize = true;
             this.lblPagoVehiculo.Location = new System.Drawing.Point(32, 160);
             this.lblPagoVehiculo.Name = "lblPagoVehiculo";
-            this.lblPagoVehiculo.Size = new System.Drawing.Size(35, 13);
+            this.lblPagoVehiculo.Size = new System.Drawing.Size(0, 13);
             this.lblPagoVehiculo.TabIndex = 2;
-            this.lblPagoVehiculo.Text = "label2";
             // 
             // btnCobrar
             // 
@@ -87,7 +86,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(272, 324);
+            this.ClientSize = new System.Drawing.Size(235, 272);
             this.Controls.Add(this.btnCobrar);
             this.Controls.Add(this.lblPagoVehiculo);
             this.Controls.Add(this.cmbVehiculo);
