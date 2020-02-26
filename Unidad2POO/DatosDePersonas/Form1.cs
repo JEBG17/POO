@@ -13,6 +13,8 @@ namespace DatosDePersonas
     public partial class Form1 : Form
     {
         ClassPersona objPersonas = new ClassPersona();
+
+        Form evaluacion = new Form2();
         public Form1()
         {
             InitializeComponent();
@@ -20,18 +22,20 @@ namespace DatosDePersonas
 
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
-            //dtpFechaNacimiento.Value.Year;
-            objPersonas.FechaNacimiento()=dtpFechaNacimiento.Value.Year, dtpFechaNacimiento.Value.Month, dtpFechaNacimiento.Value.Day);
+            objPersonas.anioAct = int.Parse(DateTime.Today.Year.ToString());
+            objPersonas.mesAct = int.Parse(DateTime.Today.Month.ToString());
+            objPersonas.diaAct = int.Parse(DateTime.Today.Day.ToString());
+            objPersonas.anioNac = int.Parse(dtpFechaNacimiento.Value.Year.ToString());
+            objPersonas.mesNac = int.Parse(dtpFechaNacimiento.Value.Month.ToString());
+            objPersonas.diaNac = int.Parse(dtpFechaNacimiento.Value.Day.ToString());
             objPersonas.FechaNacimiento();
-            objPersonas.estado = cmbEstado.Text;
+            objPersonas.estado = cmbEstado.ToString();
             objPersonas.Estado();
             objPersonas.tipo = cmbTipo.ToString();
             objPersonas.Tipo();
             txtNombre.Text = "";
             txtPaterno.Text = "";
             txtMaterno.Text = "";
-            cmbEstado.Text = "";
-            cmbTipo.Text = "";
             txtTelefono.Text = "";
 
 
@@ -39,9 +43,9 @@ namespace DatosDePersonas
 
         private void btnInforme_Click(object sender, EventArgs e)
         {
-            Form evaluacion = new Form2();
             evaluacion.Show();
 
+            
         }
     }
 }

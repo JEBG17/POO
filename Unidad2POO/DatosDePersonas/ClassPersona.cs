@@ -13,7 +13,7 @@ namespace DatosDePersonas
         public int alumno = 0, docente = 0, administrativo = 0;
         public string estado, tipo;
 
-        int anioNac, mesNac, diaNac, anioAct, mesAct, diaAct;
+        public int anioNac, mesNac, diaNac, anioAct, mesAct, diaAct;
 
         //metodo de la clase 
         public void Registro()
@@ -26,22 +26,33 @@ namespace DatosDePersonas
            {
                 mayorEdad++;
            }
-           else if (anioAct-anioNac==18)
-           {
-
-           }
-           if (mesAct > mesNac)
-           {
-
-           }
-           else if (mesAct==mesNac)
-           {
-
-           }
-           if (diaAct>diaNac)
-           {
-                mayorEdad++;
-           }
+           else
+            {
+                if (anioAct - anioNac == 18)
+                {
+                    if (mesAct>mesNac)
+                    {
+                        mayorEdad++;
+                    }
+                    else
+                    {
+                        if (mesAct==mesNac)
+                        {
+                            if (diaAct<diaNac)
+                            {
+                                mayorEdad++;
+                            }
+                            else
+                            {
+                                if (diaAct== diaNac)
+                                {
+                                    mayorEdad ++;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
         public void Estado()
         {
@@ -71,12 +82,7 @@ namespace DatosDePersonas
                     }
             }
         }
-        public void Telefono()
-        {
-            if (telefono<0)
-            {
-                
-            }
-        }
+        
+        
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\bin\Debug\FechaDeNacmiento.exe.config
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\bin\Debug\FechaDeNacmiento.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\bin\Debug\FechaDeNacmiento.pdb
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.exe
+C:\Users\hp\Documents\1POO\Unidad2POO\FechaDeNacmiento\obj\Debug\FechaDeNacmiento.pdb

@@ -23,13 +23,13 @@ namespace Vacaciones
                 unAnio = 10;
 
             }
-            else if (aTrabajo>=11 & aTrabajo<20)
+            else if (aTrabajo >= 11 & aTrabajo <= 20)
             {
-                unAnio = (aTrabajo-10)+10;
+                unAnio = (aTrabajo - 10) + 10;
             }
-            else if(aTrabajo>20 & aTrabajo<33)
+            else if (aTrabajo > 20 & aTrabajo < 33)
             {
-                unAnio = (aTrabajo - 10) * 2;
+                unAnio = ((aTrabajo -20)*2)+20;
             }
             else
             {

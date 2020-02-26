@@ -60,9 +60,8 @@
             this.lblCentigrados.AutoSize = true;
             this.lblCentigrados.Location = new System.Drawing.Point(54, 169);
             this.lblCentigrados.Name = "lblCentigrados";
-            this.lblCentigrados.Size = new System.Drawing.Size(35, 13);
+            this.lblCentigrados.Size = new System.Drawing.Size(0, 13);
             this.lblCentigrados.TabIndex = 2;
-            this.lblCentigrados.Text = "label2";
             // 
             // cmbGrados
             // 
@@ -91,9 +90,8 @@
             this.lblFahrenheit.AutoSize = true;
             this.lblFahrenheit.Location = new System.Drawing.Point(59, 241);
             this.lblFahrenheit.Name = "lblFahrenheit";
-            this.lblFahrenheit.Size = new System.Drawing.Size(35, 13);
+            this.lblFahrenheit.Size = new System.Drawing.Size(0, 13);
             this.lblFahrenheit.TabIndex = 5;
-            this.lblFahrenheit.Text = "label1";
             // 
             // errorProvider1
             // 
