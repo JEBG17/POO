@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\bin\Debug\ComisionDeElectricidad.exe.config
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\bin\Debug\ComisionDeElectricidad.exe
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\bin\Debug\ComisionDeElectricidad.pdb
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.Form1.resources
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.Properties.Resources.resources
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.exe
+C:\Users\hp\Documents\Proyectos POO\Examen2y3\ComisionDeElectricidad\obj\Debug\ComisionDeElectricidad.pdb
