@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\bin\Debug\Vehiculos.exe.config
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\bin\Debug\Vehiculos.exe
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\bin\Debug\Vehiculos.pdb
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.Form1.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.Properties.Resources.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.exe
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Vehiculos\obj\Debug\Vehiculos.pdb

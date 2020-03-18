@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\bin\Debug\FigurasGeometricas1.exe.config
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\bin\Debug\FigurasGeometricas1.exe
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\bin\Debug\FigurasGeometricas1.pdb
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.Form1.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.Properties.Resources.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.exe
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.pdb
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.FCuadrado.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.FCirculo.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.FTriangulo.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.Isosceles.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.Equilatero.resources
+C:\Users\hp\Documents\Proyectos POO\UNIDAD4\FigurasGeometricas1\obj\Debug\FigurasGeometricas1.Escaleno.resources
