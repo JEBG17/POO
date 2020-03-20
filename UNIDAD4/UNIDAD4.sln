@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpleadosRestaurante", "Emp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigurasGeometricas1", "FigurasGeometricas1\FigurasGeometricas1.csproj", "{37C15188-E58E-4DD3-8959-4891B0423E3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesEjericio1", "InterfacesEjericio1\InterfacesEjericio1.csproj", "{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{37C15188-E58E-4DD3-8959-4891B0423E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C15188-E58E-4DD3-8959-4891B0423E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C15188-E58E-4DD3-8959-4891B0423E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
