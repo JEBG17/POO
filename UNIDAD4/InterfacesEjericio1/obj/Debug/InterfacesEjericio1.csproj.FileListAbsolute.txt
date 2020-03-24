@@ -1,7 +1,6 @@
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\bin\Debug\InterfacesEjericio1.exe.config
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\bin\Debug\InterfacesEjericio1.exe
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\bin\Debug\InterfacesEjericio1.pdb
-C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.csprojAssemblyReference.cache
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.FCilindro.resources
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.FCubo.resources
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.Form1.resources
@@ -11,3 +10,5 @@ C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjeri
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.exe
 C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\obj\Debug\InterfacesEjericio1.pdb
+C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\bin\Debug\InterfacesEjericio1.exe.CodeAnalysisLog.xml
+C:\Users\hp\Documents\1POO\UNIDAD4\InterfacesEjericio1\bin\Debug\InterfacesEjericio1.exe.lastcodeanalysissucceeded

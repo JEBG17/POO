@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigurasGeometricas1", "Figu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesEjericio1", "InterfacesEjericio1\InterfacesEjericio1.csproj", "{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Culebrita", "Culebrita\Culebrita.csproj", "{65CF6714-2344-42B6-99FE-8C9A98DAE4FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9AA96AE-50A8-469D-8B1B-8209F21B3C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CF6714-2344-42B6-99FE-8C9A98DAE4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CF6714-2344-42B6-99FE-8C9A98DAE4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CF6714-2344-42B6-99FE-8C9A98DAE4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CF6714-2344-42B6-99FE-8C9A98DAE4FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

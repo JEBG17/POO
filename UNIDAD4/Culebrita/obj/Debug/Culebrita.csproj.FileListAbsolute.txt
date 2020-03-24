@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\bin\Debug\Culebrita.exe.config
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\bin\Debug\Culebrita.exe
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\bin\Debug\Culebrita.pdb
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.Form1.resources
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.exe
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.pdb
+C:\Users\hp\Documents\1POO\UNIDAD4\Culebrita\obj\Debug\Culebrita.csprojAssemblyReference.cache

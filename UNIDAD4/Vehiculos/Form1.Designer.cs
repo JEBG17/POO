@@ -288,7 +288,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(493, 536);
+            this.ClientSize = new System.Drawing.Size(480, 500);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.btnApagarMotor);
             this.Controls.Add(this.btnEstado);

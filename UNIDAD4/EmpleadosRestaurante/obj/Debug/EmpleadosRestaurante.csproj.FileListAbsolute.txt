@@ -8,3 +8,15 @@ C:\Users\hp\Documents\Proyectos POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\Emple
 C:\Users\hp\Documents\Proyectos POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\Proyectos POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.exe
 C:\Users\hp\Documents\Proyectos POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.pdb
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe.config
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.pdb
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe.CodeAnalysisLog.xml
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\bin\Debug\EmpleadosRestaurante.exe.lastcodeanalysissucceeded
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.Form1.resources
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.exe
+C:\Users\hp\Documents\1POO\UNIDAD4\EmpleadosRestaurante\obj\Debug\EmpleadosRestaurante.pdb

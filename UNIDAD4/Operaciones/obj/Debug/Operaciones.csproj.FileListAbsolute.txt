@@ -8,3 +8,10 @@ C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.cs
 C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.exe
 C:\Users\hp\Documents\Proyectos POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\hp\Documents\1POO\UNIDAD4\Operaciones\obj\Debug\Operaciones.pdb
