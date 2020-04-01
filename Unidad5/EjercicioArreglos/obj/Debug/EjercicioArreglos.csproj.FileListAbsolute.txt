@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\bin\Debug\EjercicioArreglos.exe.config
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\bin\Debug\EjercicioArreglos.exe
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\bin\Debug\EjercicioArreglos.pdb
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\obj\Debug\EjercicioArreglos.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\obj\Debug\EjercicioArreglos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\obj\Debug\EjercicioArreglos.exe
+C:\Users\hp\Documents\Proyectos POO\Unidad5\EjercicioArreglos\obj\Debug\EjercicioArreglos.pdb
