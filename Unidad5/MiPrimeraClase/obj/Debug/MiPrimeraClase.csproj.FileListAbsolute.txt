@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe.config
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.pdb
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.Form1.resources
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.Properties.Resources.resources
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.exe
+C:\Users\hp\Documents\Proyectos POO\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.pdb
