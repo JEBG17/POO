@@ -8,6 +8,7 @@ namespace MiPrimeraClase
 {
     class Persona
     {
+		
         public string ID { get; set; }
 
         public string Nombres { get; set; }

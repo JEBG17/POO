@@ -1,0 +1,10 @@
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.Form1.resources
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.Properties.Resources.resources
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.csproj.GenerateResource.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\bin\Debug\PaisesNo2.exe.config
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\bin\Debug\PaisesNo2.exe
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\bin\Debug\PaisesNo2.pdb
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.exe
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\PaisesNo2\obj\Debug\PaisesNo2.pdb

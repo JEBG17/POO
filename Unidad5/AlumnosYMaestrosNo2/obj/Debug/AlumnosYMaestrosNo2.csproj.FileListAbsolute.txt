@@ -1,0 +1,10 @@
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\bin\Debug\AlumnosYMaestrosNo2.exe.config
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\bin\Debug\AlumnosYMaestrosNo2.exe
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\bin\Debug\AlumnosYMaestrosNo2.pdb
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.Form1.resources
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.Properties.Resources.resources
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.csproj.GenerateResource.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.exe
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Unidad5\AlumnosYMaestrosNo2\obj\Debug\AlumnosYMaestrosNo2.pdb
