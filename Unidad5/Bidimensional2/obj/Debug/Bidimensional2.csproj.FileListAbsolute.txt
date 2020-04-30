@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe.config
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.pdb
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csprojAssemblyReference.cache
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.Form1.resources
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.Properties.Resources.resources
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csproj.GenerateResource.cache
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.exe
+C:\Users\hp\Documents\1POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.pdb
