@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\bin\Debug\TorneoFutbol.exe.config
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\bin\Debug\TorneoFutbol.exe
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\bin\Debug\TorneoFutbol.pdb
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.Form1.resources
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.Properties.Resources.resources
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.exe
+C:\Users\HP\Documents\Proyectos POO\TorneoFutbol\TorneoFutbol\obj\Debug\TorneoFutbol.pdb

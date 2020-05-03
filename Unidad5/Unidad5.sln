@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidimensional1", "Bidimensi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bidimensional2", "Bidimensional2\Bidimensional2.csproj", "{AE45ACD6-152A-4E64-B68D-C253FBC82E2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoFutbol", "..\TorneoFutbol\TorneoFutbol\TorneoFutbol.csproj", "{E24D6792-38F1-4CE9-88CE-26E24CB3F288}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AE45ACD6-152A-4E64-B68D-C253FBC82E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE45ACD6-152A-4E64-B68D-C253FBC82E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE45ACD6-152A-4E64-B68D-C253FBC82E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24D6792-38F1-4CE9-88CE-26E24CB3F288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24D6792-38F1-4CE9-88CE-26E24CB3F288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24D6792-38F1-4CE9-88CE-26E24CB3F288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24D6792-38F1-4CE9-88CE-26E24CB3F288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
