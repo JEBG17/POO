@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe.config
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.exe
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\bin\Debug\NumerosMayorMenor.pdb
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.Form1.resources
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.Properties.Resources.resources
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.exe
+C:\Users\HP\source\repos\NumerosMayorMenor\NumerosMayorMenor\obj\Debug\NumerosMayorMenor.pdb
