@@ -6,18 +6,17 @@ using System.Threading.Tasks;
 
 namespace AlumnosYMaestros2
 {
-	class Alumnos:Personas
+	class Alumno:Personas
 	{
 		public int NumeroControl { set; get; }
 		public string Carrera { get; set; }
 		//constructor 
-		public Alumnos()
+		public Alumno()
 		{
 			NumeroControl = 0;
 			Carrera = "";
 		}
 		//declaracion del arreglo multidimensional
 		public string[,] MateriasyCal;
-	
 	}
 }

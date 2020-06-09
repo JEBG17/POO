@@ -32,7 +32,7 @@ namespace AlumnosYMmaestros1
 			this.gbxMaestro.Enabled = false;
 			this.btnGuardar.Enabled = false;
 			this.btnImprimir.Enabled = false;
-			ArchivoAyM = new StreamWriter("archivoPaises.txt");
+			ArchivoAyM = new StreamWriter("archivoAlumnoYMaestros.txt");
 		}
 
 		private void btnAceptar_Click(object sender, EventArgs e)
