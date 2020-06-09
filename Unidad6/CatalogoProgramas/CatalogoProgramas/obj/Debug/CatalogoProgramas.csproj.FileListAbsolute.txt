@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\bin\Debug\CatalogoProgramas.exe.config
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\bin\Debug\CatalogoProgramas.exe
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\bin\Debug\CatalogoProgramas.pdb
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.Form1.resources
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.Properties.Resources.resources
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.exe
+C:\Users\HP\Documents\Proyectos POO\CatalogoProgramas\CatalogoProgramas\obj\Debug\CatalogoProgramas.pdb
