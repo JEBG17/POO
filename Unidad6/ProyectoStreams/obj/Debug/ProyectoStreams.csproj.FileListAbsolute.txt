@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\bin\Debug\ProyectoStreams.exe.config
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\bin\Debug\ProyectoStreams.exe
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\bin\Debug\ProyectoStreams.pdb
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\obj\Debug\ProyectoStreams.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\obj\Debug\ProyectoStreams.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\obj\Debug\ProyectoStreams.exe
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\obj\Debug\ProyectoStreams.pdb
+C:\Users\HP\Documents\Proyectos POO\ProyectoStreams\ProyectoStreams\bin\Debug\archivo.txt
