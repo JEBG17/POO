@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\bin\Debug\MatrizSuma.exe.config
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\bin\Debug\MatrizSuma.exe
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\bin\Debug\MatrizSuma.pdb
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.csprojAssemblyReference.cache
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.Form1.resources
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.Properties.Resources.resources
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.csproj.GenerateResource.cache
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.exe
+C:\Users\HP\Documents\POO\Unidad6\MatrizSuma\obj\Debug\MatrizSuma.pdb

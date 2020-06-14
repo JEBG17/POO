@@ -103,8 +103,7 @@ namespace AlumnosYMmaestros1
 				objAlumno.MateriasyCal[0, 2] = txtMateriaA3.Text;
 				objAlumno.MateriasyCal[0, 3] = txtMateriaA4.Text;
 				objAlumno.MateriasyCal[1, 0] = txtCalificacionA1.Text;
-				objAlumno.MateriasyCal[1, 1] = txtCalificacionA2.Text;
-				objAlumno.MateriasyCal[1, 2] = txtCalificacionA3.Text;
+
 				objAlumno.MateriasyCal[1, 3] = txtCalificacionA4.Text;
 			}
 			if (cmbTipo.Text == "Maestro")
@@ -145,8 +144,8 @@ namespace AlumnosYMmaestros1
 				txtCalificacionA4.Text = objAlumno.MateriasyCal[1, 3];
 
 
-				ArchivoAyM.Write(objPersonas.NombreCompleto);
-				ArchivoAyM.Write(objPersonas.FechaNacimiento);
+				ArchivoAyM.WriteLine(objPersonas.NombreCompleto);
+				ArchivoAyM.WriteLine(objPersonas.FechaNacimiento);
 				ArchivoAyM.Write(objPersonas.Curp);
 				ArchivoAyM.Write(objPersonas.Telefono.ToString());
 				ArchivoAyM.Write(objPersonas.Correo);
@@ -161,6 +160,38 @@ namespace AlumnosYMmaestros1
 				ArchivoAyM.Write(objAlumno.MateriasyCal[1, 2]);
 				ArchivoAyM.Write(objAlumno.MateriasyCal[1, 3]);
 				ArchivoAyM.Close();
+			}
+			else if (cmbTipo.Text == "Maestro")
+			{
+				txtNombre.Text = objPersonas.NombreCompleto;
+				dtpFecha.Value = objPersonas.FechaNacimiento;
+				txtCurp.Text = objPersonas.Curp;
+				txtTelefono.Text = objPersonas.Telefono.ToString();
+				txtCorreo.Text = objPersonas.Correo;
+				txtNumMaestro.Text = objMaestro.NumeroMaestro.ToString();
+				txtSueldo.Text = objMaestro.Sueldo.ToString();
+				txtMateria1.Text = objMaestro.Materias[0];
+				txtMateria2.Text = objMaestro.Materias[1];
+				txtMateria3.Text = objMaestro.Materias[2];
+				txtMateria4.Text = objMaestro.Materias[3];
+				txtMateria5.Text = objMaestro.Materias[4];
+				txtMateria6.Text = objMaestro.Materias[5];
+
+				ArchivoAyM.WriteLine(objPersonas.NombreCompleto);
+				ArchivoAyM.WriteLine(objPersonas.FechaNacimiento);
+				ArchivoAyM.WriteLine(objPersonas.Curp);
+				ArchivoAyM.WriteLine(objPersonas.Telefono);
+				ArchivoAyM.WriteLine(objPersonas.Correo);
+				ArchivoAyM.WriteLine(objMaestro.NumeroMaestro);
+				ArchivoAyM.WriteLine(objMaestro.Sueldo);
+				ArchivoAyM.WriteLine(objMaestro.Materias[0]);
+				ArchivoAyM.WriteLine(objMaestro.Materias[1]);
+				ArchivoAyM.WriteLine(objMaestro.Materias[2]);
+				ArchivoAyM.WriteLine(objMaestro.Materias[3]);
+				ArchivoAyM.WriteLine(objMaestro.Materias[4]);
+				ArchivoAyM.WriteLine(objMaestro.Materias[5]);
+				ArchivoAyM.Close();
+
 			}
 
 		}

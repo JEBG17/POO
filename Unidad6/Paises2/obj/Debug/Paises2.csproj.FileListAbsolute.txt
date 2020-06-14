@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\POO\Unidad6\Paises2\bin\Debug\Paises2.exe.config
+C:\Users\HP\Documents\POO\Unidad6\Paises2\bin\Debug\Paises2.exe
+C:\Users\HP\Documents\POO\Unidad6\Paises2\bin\Debug\Paises2.pdb
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.csprojAssemblyReference.cache
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.Form1.resources
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.Properties.Resources.resources
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.csproj.GenerateResource.cache
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.exe
+C:\Users\HP\Documents\POO\Unidad6\Paises2\obj\Debug\Paises2.pdb

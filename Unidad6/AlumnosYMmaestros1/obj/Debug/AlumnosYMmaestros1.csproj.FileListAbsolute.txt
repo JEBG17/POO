@@ -8,3 +8,13 @@ C:\Users\HP\Documents\Proyectos POO\Uunidad6\AlumnosYMmaestros1\obj\Debug\Alumno
 C:\Users\HP\Documents\Proyectos POO\Uunidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.csproj.CoreCompileInputs.cache
 C:\Users\HP\Documents\Proyectos POO\Uunidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.exe
 C:\Users\HP\Documents\Proyectos POO\Uunidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.pdb
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\bin\Debug\AlumnosYMmaestros1.exe.config
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\bin\Debug\AlumnosYMmaestros1.exe
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\bin\Debug\AlumnosYMmaestros1.pdb
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.Form1.resources
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.Properties.Resources.resources
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.csproj.GenerateResource.cache
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.exe
+C:\Users\HP\Documents\POO\Unidad6\AlumnosYMmaestros1\obj\Debug\AlumnosYMmaestros1.pdb

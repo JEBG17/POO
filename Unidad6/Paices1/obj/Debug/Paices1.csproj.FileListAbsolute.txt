@@ -8,3 +8,13 @@ C:\Users\HP\Documents\Proyectos POO\Uunidad6\Paices1\bin\Debug\Paices1.exe
 C:\Users\HP\Documents\Proyectos POO\Uunidad6\Paices1\bin\Debug\Paices1.pdb
 C:\Users\HP\Documents\Proyectos POO\Uunidad6\Paices1\obj\Debug\Paices1.exe
 C:\Users\HP\Documents\Proyectos POO\Uunidad6\Paices1\obj\Debug\Paices1.pdb
+C:\Users\HP\Documents\POO\Unidad6\Paices1\bin\Debug\Paices1.exe.config
+C:\Users\HP\Documents\POO\Unidad6\Paices1\bin\Debug\Paices1.exe
+C:\Users\HP\Documents\POO\Unidad6\Paices1\bin\Debug\Paices1.pdb
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.csprojAssemblyReference.cache
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.Form1.resources
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.Properties.Resources.resources
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.csproj.GenerateResource.cache
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.exe
+C:\Users\HP\Documents\POO\Unidad6\Paices1\obj\Debug\Paices1.pdb
