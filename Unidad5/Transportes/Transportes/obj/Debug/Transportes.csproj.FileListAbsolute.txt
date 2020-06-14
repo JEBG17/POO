@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\Transportes\Transportes\bin\Debug\Transportes.exe.config
+C:\Users\HP\source\repos\Transportes\Transportes\bin\Debug\Transportes.exe
+C:\Users\HP\source\repos\Transportes\Transportes\bin\Debug\Transportes.pdb
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.Form1.resources
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.Properties.Resources.resources
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.exe
+C:\Users\HP\source\repos\Transportes\Transportes\obj\Debug\Transportes.pdb
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\bin\Debug\Transportes.exe.config
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\bin\Debug\Transportes.exe
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\bin\Debug\Transportes.pdb
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.Form1.resources
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.Properties.Resources.resources
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.csproj.GenerateResource.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.exe
+C:\Users\HP\Dropbox\Mi PC (DESKTOP-QV09A53)\Desktop\Transportes\Transportes\obj\Debug\Transportes.pdb
